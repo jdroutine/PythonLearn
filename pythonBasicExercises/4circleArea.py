@@ -1,6 +1,6 @@
-import math
+from math import pi
 
 r = float(input("Enter The Radius Value: "))
-area = math.pi * r **2
+area = pi * r **2
 
 print(area)
